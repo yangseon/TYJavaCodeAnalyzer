@@ -1,4 +1,0 @@
--t C:\testworkspace\JavaCodeAnalyzer -r . -i 1 -f default
-
--t W:\jobs\TestJob\workspace -r . -i 0 -f default
-
