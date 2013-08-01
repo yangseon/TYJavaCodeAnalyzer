@@ -19,6 +19,12 @@
 /*
  * Created on 05/10/2006
  */
+
+/**
+ * Modified on 4/24/2013 yangseon ryu(ysryu)
+ * -. Count Loc, codeLoc, commentLoc and complexity 
+ */
+
 package japa.parser.ast;
 
 import japa.parser.ast.body.AnnotationDeclaration;

@@ -26,6 +26,10 @@ import japa.parser.ast.visitor.GenericVisitor;
 import japa.parser.ast.visitor.VoidVisitor;
 
 /**
+ * Modified on 4/24/2013 yangseon ryu(ysryu)
+ * -. Count complexity  
+ */
+/**
  * @author Julio Vilmar Gesser
  */
 public final class AssertStmt extends Statement {

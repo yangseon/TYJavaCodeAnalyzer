@@ -19,6 +19,11 @@
 /*
  * Created on 05/10/2006
  */
+
+/**
+ * Modified on 4/24/2013 yangseon ryu(ysryu)
+ * -. Count codeLoc and commentLoc
+ */
 package japa.parser.ast.body;
 
 import japa.parser.ast.Comment;
