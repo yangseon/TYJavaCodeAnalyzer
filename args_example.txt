@@ -1,0 +1,4 @@
+-t C:\new_workspace\JavaCodeAnalyzer_1.8 -r . -i 1 -f default
+
+-t W:\jobs\TestJob\workspace -r . -i 0 -f default
+
